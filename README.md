@@ -6,8 +6,13 @@ This Raylib sketch attempts to model a Gas as a collection of fast moving partic
 
 ## Roadmap
 
-- [ ] 2 particles with collisions between each other and boundary
-- [ ] Multiple (> 2) particles 
-  - [ ] Implement a fixed-sized arena to hold particles
-- [ ] Quadtrees 
+- [x] 2 particles with collisions between each other and boundary
+- [x] Multiple (> 2) particles 
+  - [x] Implement a fixed-sized arena to hold particles
+- [ ] ~~Quadtrees~~ RTrees
 - [ ] Compare with Physics
+
+
+## Example
+
+[![Example](https://raw.githubusercontent.com/owenyi2/Particle-Sim/main/example.webm)](https://raw.githubusercontent.com/owenyi2/Particle-Sim/main/example.webm)
